@@ -1,0 +1,1561 @@
+{
+  "data": {
+    "pdpGetLayout": {
+      "requestID": "202608060043272087FB3FA7E7F800BA1D",
+      "name": "Default Layout",
+      "pdpSession": "{\"ttspi\":1736063620286678695,\"ttsku\":1736064032571557543,\"sid\":7494288768308053671,\"ttssid\":7494288768308053671,\"sd\":\"orbitbyte-digital-store\",\"stier\":1,\"cat\":{\"id\":4011,\"ttsid\":601760,\"d\":[{\"name\":\"Komputer \\u0026 Laptop\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297},{\"name\":\"Aksesoris PC Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming\",\"id\":3848},{\"name\":\"Mouse Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming\",\"id\":4011}],\"ttsd\":[{\"name\":\"Komputer \\u0026 Peralatan Kantor\",\"id\":601755},{\"name\":\"Periferal \\u0026 Aksesoris\",\"id\":826760},{\"name\":\"Keyboard \\u0026 Mouse\",\"id\":601760}]},\"pid\":103483271372,\"ppn\":\"Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula \\u0026 Profesional\",\"dcid\":103483271373,\"cp\":{\"id\":-10000,\"se\":1,\"lr\":{},\"edux\":1795951260,\"pa\":54,\"s\":true,\"sp\":true,\"cod\":true},\"opr\":379000,\"pr\":175000,\"mo\":1,\"pn\":\"Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula \\u0026 Profesional - Hitam\",\"purl\":\"https://www.tokopedia.com/orbitbyte-digital-store/logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571557543\",\"pa\":\"logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571557543\",\"st\":890,\"cn\":\"new\",\"ln\":\"Default Layout\",\"w\":0.146,\"sf\":{},\"nid\":1,\"ws\":{},\"stat\":{\"cr\":10,\"r\":5,\"cs\":150,\"mcs\":\"150\"},\"fst\":[{\"FSID\":0,\"PartnerName\":\"\",\"FSType\":0,\"ShopID\":0}],\"uvt\":true,\"mnwhs\":{\"103483271372\":{\"pid\":103483271372,\"wid\":21071229,\"pr\":175000,\"s\":890},\"103483271373\":{\"pid\":103483271373,\"wid\":21071229,\"pr\":175000,\"s\":890},\"103483271374\":{\"pid\":103483271374,\"wid\":21071229,\"pr\":175000,\"s\":895},\"103483271375\":{\"pid\":103483271375,\"wid\":21071229,\"pr\":5000}},\"umps\":3,\"hbp\":true,\"hp\":true,\"nv\":{\"id\":1,\"n\":\"default_navbar\",\"c\":[{\"t\":\"Ulasan\",\"cn\":\"review\",\"ci\":38,\"co\":32,\"f\":[{\"t\":\"Ulasan\",\"cn\":\"review_v2\",\"ci\":301,\"co\":0}]},{\"t\":\"Detail Produk\",\"cn\":\"product_detail\",\"ci\":37,\"co\":43,\"f\":[{\"t\":\"Spesifikasi\",\"cn\":\"product_detail\",\"ci\":37,\"co\":0}]},{\"t\":\"Rekomendasi\",\"cn\":\"pdp\",\"ci\":102,\"co\":68,\"f\":[{\"t\":\"Rekomendasi\",\"cn\":\"pdp_same_shop\",\"ci\":278,\"co\":0}]}]},\"cr\":{},\"d\":{},\"pv\":[{\"id\":\"platform_identifier_7663429651125274386\",\"ty\":\"platform\",\"te\":\"\\u003cspan style=\\\"color:#E02954\\\"\\u003eDiskon Pengguna Baru 99% (40rb)\\u003c/span\\u003e\",\"bc\":\"#FEECEF\",\"ic\":\"\",\"boc\":\"#FFC1C5\",\"ti\":\"\",\"mp\":40000,\"mb\":40000},{\"id\":\"seller_identifier_7655167304246101761\",\"ty\":\"seller\",\"te\":\"\\u003cspan style=\\\"color:#E02954\\\"\\u003eDiskon Toko 13rb\\u003c/span\\u003e\",\"bc\":\"#FEECEF\",\"ic\":\"\",\"boc\":\"#FFC1C5\",\"ti\":\"\",\"mp\":189000,\"mb\":13000},{\"id\":\"upselling\",\"ty\":\"discount\",\"te\":\"\\u003cspan style=\\\"color:#E02954\\\"\\u003eBelanja Rp1jt, Diskon 50rb\\u003c/span\\u003e\",\"bc\":\"#FEECEF\",\"ic\":\"\",\"boc\":\"#FFC1C5\",\"ti\":\"\",\"mp\":1000000,\"mb\":50000}],\"fscp\":{\"ra\":{},\"tps\":150,\"grp\":100,\"mps\":1,\"wc\":7,\"ps\":890},\"exp\":{\"pu\":\"plus_benefit_variant\",\"hfsp\":\"variant_1\",\"vw\":\"v1\",\"saatc\":true},\"patcs\":{\"lid\":380,\"pi\":103483271373,\"pid\":103483271372,\"whid\":21071229,\"pr\":175000,\"opr\":379000,\"spa\":true,\"cat\":{\"id\":4011},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"v\":1,\"vd\":{\"103483271373\":{\"ttsp\":1736063620286678695,\"ttssku\":1736064032571557543,\"cp\":{\"id\":-10000,\"se\":1,\"lr\":{},\"s\":true,\"sp\":true,\"cod\":true},\"p\":175000,\"op\":379000,\"isc\":true,\"whid\":21071229,\"mo\":1,\"patcs\":{\"lid\":381,\"pi\":103483271373,\"pid\":103483271372,\"whid\":21071229,\"pr\":175000,\"opr\":379000,\"spa\":true,\"cat\":{\"id\":4011},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"s\":890,\"w\":146,\"ib\":true,\"hp\":true},\"103483271374\":{\"ttsp\":1736063620286678695,\"ttssku\":1736064032571623079,\"cp\":{\"id\":-10000,\"se\":1,\"lr\":{},\"s\":true,\"sp\":true,\"cod\":true},\"p\":175000,\"op\":379000,\"isc\":true,\"whid\":21071229,\"mo\":1,\"patcs\":{\"lid\":381,\"pi\":103483271374,\"pid\":103483271372,\"whid\":21071229,\"pr\":175000,\"opr\":379000,\"spa\":true,\"cat\":{\"id\":4011},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"s\":895,\"w\":146,\"ib\":true,\"hp\":true},\"103483271375\":{\"ttsp\":1736063620286678695,\"ttssku\":1736064032571688615,\"cp\":{\"id\":-10000,\"se\":1,\"lr\":{},\"s\":true,\"sp\":true,\"cod\":true},\"p\":5000,\"op\":20000,\"isc\":true,\"whid\":21071229,\"mo\":1,\"patcs\":{\"lid\":381,\"pi\":103483271375,\"pid\":103483271372,\"whid\":21071229,\"pr\":5000,\"opr\":20000,\"spa\":true,\"cat\":{\"id\":4011},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"w\":60,\"ib\":true}},\"pi\":103483271373,\"pse\":1,\"ps\":\"ACTIVE\",\"fc\":[\"obat_keras\",\"shop_voucher\",\"cod\",\"info_donation\",\"oneliner_affiliate_creator_var\",\"shipment_v4\",\"warning_meds\",\"product_bundling\",\"best_seller\",\"fulfillment\",\"oneliner_kvi\",\"shipment_grouping\",\"tidak_kadaluwarsa\",\"oneliner_change_of_mind_review\"],\"cod\":true,\"cui\":{},\"srq\":{\"rs\":4.5,\"tr\":148,\"trt\":229},\"prtg\":{\"rs\":\"5.0\",\"tr\":10,\"trf\":\"10\",\"trti\":8,\"trtif\":\"8\",\"tm\":18},\"wc\":7,\"ss\":1,\"grp\":100,\"scm\":{\"103483271372\":1},\"ma\":[{\"t\":\"Tipe Garansi\",\"v\":[\"Tanpa Garansi\"]}],\"p2c\":{},\"pm\":true,\"ispt\":true,\"ism\":true,\"hv\":true,\"zid\":\"my\"}",
+      "basicInfo": {
+        "productID": "103483271373",
+        "initialVariantOptionID": "2",
+        "category": {
+          "id": "4011",
+          "name": "Mouse Gaming",
+          "title": "",
+          "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming",
+          "isAdult": false,
+          "isKyc": false,
+          "detail": [
+            {
+              "id": "297",
+              "name": "Komputer & Laptop",
+              "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop"
+            },
+            {
+              "id": "3848",
+              "name": "Aksesoris PC Gaming",
+              "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming"
+            },
+            {
+              "id": "4011",
+              "name": "Mouse Gaming",
+              "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming"
+            }
+          ],
+          "ttsID": "601760",
+          "ttsDetail": [
+            {
+              "id": "601755",
+              "name": "Komputer & Peralatan Kantor",
+              "breadcrumbURL": ""
+            },
+            {
+              "id": "826760",
+              "name": "Periferal & Aksesoris",
+              "breadcrumbURL": ""
+            },
+            {
+              "id": "601760",
+              "name": "Keyboard & Mouse",
+              "breadcrumbURL": ""
+            }
+          ]
+        },
+        "menu": {
+          "id": "0",
+          "name": "",
+          "url": ""
+        },
+        "shopID": "7494288768308053671",
+        "shopName": "ORBITBYTE DIGITAL STORE",
+        "alias": "logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571557543",
+        "minOrder": 1,
+        "maxOrder": 890,
+        "url": "https://www.tokopedia.com/orbitbyte-digital-store/logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571557543",
+        "catalogID": "0",
+        "needPrescription": false,
+        "weight": 146,
+        "weightUnit": "GRAM",
+        "status": "ACTIVE",
+        "txStats": {
+          "transactionReject": "0",
+          "transactionSuccess": "0",
+          "countSold": "150",
+          "itemSoldFmt": "150"
+        },
+        "stats": {
+          "rating": 5,
+          "countTalk": "0",
+          "countView": "0",
+          "countReview": "10"
+        },
+        "defaultOngkirEstimation": "30000",
+        "isTokoNow": false,
+        "totalStockFmt": "1.785",
+        "isGiftable": false,
+        "defaultMediaURL": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=tiI%2FEpf%2Bqo3a6onQeCcTXpKIIMA%3D&x-signature-webp=%2FTLKtBBR%2FRwlCAMsDraOUSI6Wf8%3D",
+        "shopMultilocation": {
+          "cityName": "Kota Tangerang"
+        },
+        "isBlacklisted": false,
+        "blacklistMessage": {
+          "title": "",
+          "description": "",
+          "button": ""
+        },
+        "weightWording": "Berat satuan: <b>146 gram</b>",
+        "ttsPID": "1736063620286678695",
+        "ttsSKUID": "1736064032571557543",
+        "ttsShopID": "7494288768308053671"
+      },
+      "additionalData": {
+        "fomoSocialProofs": []
+      },
+      "components": [
+        {
+          "name": "product_snapshot",
+          "type": "product_snapshot",
+          "kind": "default",
+          "data": [
+            {}
+          ]
+        },
+        {
+          "name": "product_media",
+          "type": "product_media",
+          "kind": "default",
+          "data": [
+            {
+              "media": [
+                {
+                  "type": "video",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=tiI%2FEpf%2Bqo3a6onQeCcTXpKIIMA%3D&x-signature-webp=%2FTLKtBBR%2FRwlCAMsDraOUSI6Wf8%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=dw6%2B69Nz3Pr9BKS77UvFzgmXlYA%3D&x-signature-webp=LqX%2FJPYWkIpV74R3fXOV2oeDjkw%3D",
+                  "description": "",
+                  "videoURLIOS": "https://vod-stream.tokopedia.net/view/ttvideo?source=QeEaKL&ttvid=v10c21g50000d8mik5nog65isp6shm3g",
+                  "isAutoplay": false,
+                  "index": 0,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=tiI%2FEpf%2Bqo3a6onQeCcTXpKIIMA%3D&x-signature-webp=%2FTLKtBBR%2FRwlCAMsDraOUSI6Wf8%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=tiI%2FEpf%2Bqo3a6onQeCcTXpKIIMA%3D&x-signature-webp=%2FTLKtBBR%2FRwlCAMsDraOUSI6Wf8%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=dw6%2B69Nz3Pr9BKS77UvFzgmXlYA%3D&x-signature-webp=LqX%2FJPYWkIpV74R3fXOV2oeDjkw%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 1,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2a9797566d4543b08512c639b0ec28fd~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=tiI%2FEpf%2Bqo3a6onQeCcTXpKIIMA%3D&x-signature-webp=%2FTLKtBBR%2FRwlCAMsDraOUSI6Wf8%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/461bc58dbbb14315b78f0e91b263d966~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=Z4U4yJT%2BPOtMY0HHaa%2Fa%2BTMuXeg%3D&x-signature-webp=cEt2YnKDTIJaB0SwF8fp9rcOJtg%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/461bc58dbbb14315b78f0e91b263d966~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=y83fxqOyJpL%2BnPiY4BqT94SCU4Q%3D&x-signature-webp=gmWrzYRccGIzGthhEfChiqxsSXs%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 2,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/461bc58dbbb14315b78f0e91b263d966~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=Z4U4yJT%2BPOtMY0HHaa%2Fa%2BTMuXeg%3D&x-signature-webp=cEt2YnKDTIJaB0SwF8fp9rcOJtg%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/e715e2e149b646e59233c3dd3df5573b~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=HHMvq87H94G8S%2BPFZwr7zbiQdA4%3D&x-signature-webp=WR0ALV6i3gQgT2GV9ejw3c15SdY%3D",
+                  "URLThumbnail": "https://p19-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/e715e2e149b646e59233c3dd3df5573b~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=bcGddKKgH%2BPpKLUtg22hMSQsUu8%3D&x-signature-webp=C9xXHdxOoGcjDNWfszW6kZqfZJU%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 3,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/e715e2e149b646e59233c3dd3df5573b~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=HHMvq87H94G8S%2BPFZwr7zbiQdA4%3D&x-signature-webp=WR0ALV6i3gQgT2GV9ejw3c15SdY%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/4cdd72e0a4374aa6960ee079896f55d6~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=4Z%2BHQn%2BEFbDzSMI5sBGvMZGH%2BmM%3D&x-signature-webp=RNO62L6tgfMvgkjt0hYlG7146uM%3D",
+                  "URLThumbnail": "https://p19-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/4cdd72e0a4374aa6960ee079896f55d6~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=A2MRjhVwQ%2F9xmDeYHwsTMLmtI00%3D&x-signature-webp=Ns45ysAA7F6wPaOxRl7WPt4Wqsk%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 4,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/4cdd72e0a4374aa6960ee079896f55d6~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=4Z%2BHQn%2BEFbDzSMI5sBGvMZGH%2BmM%3D&x-signature-webp=RNO62L6tgfMvgkjt0hYlG7146uM%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/9d8bf43b86164dc59771ff9e770f3043~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=lep0ZxZahPJrK18DBixzlea6jBE%3D&x-signature-webp=7PhogFEAQR26MYU1Y9zm4DubuPQ%3D",
+                  "URLThumbnail": "https://p19-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/9d8bf43b86164dc59771ff9e770f3043~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=h13udWqMs82%2BdeKGu1efxsqz36g%3D&x-signature-webp=cV%2FY9AmoujeHFe3xF7OQUiaTBWA%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 5,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/9d8bf43b86164dc59771ff9e770f3043~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=lep0ZxZahPJrK18DBixzlea6jBE%3D&x-signature-webp=7PhogFEAQR26MYU1Y9zm4DubuPQ%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/d19df16f8a0c4dce929edd9b419f80b1~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=CfeIWsLf%2BCR9SHuIPsaFfRcAyGg%3D&x-signature-webp=uQFF8%2BfCxfktLBNn8rq5QuD5Rlk%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/d19df16f8a0c4dce929edd9b419f80b1~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=%2B1gP6wPtmgUbfZI0hazZomyVd0s%3D&x-signature-webp=8GseHKGo1mqGY1Yf2VJFn2AX6qc%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 6,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/d19df16f8a0c4dce929edd9b419f80b1~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=CfeIWsLf%2BCR9SHuIPsaFfRcAyGg%3D&x-signature-webp=uQFF8%2BfCxfktLBNn8rq5QuD5Rlk%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/1c2b2df2d3464171aa4c2fa44f5a74b8~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=SQAlaXUPHp5xZhRUQpVctbtlJyc%3D&x-signature-webp=cix7RM9tPpxcXFvFMwZtIAsr9bM%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/1c2b2df2d3464171aa4c2fa44f5a74b8~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=0D%2F8v%2FzWfrnwAfepyjdmRDVhGj8%3D&x-signature-webp=8AF2qmHQc1XXVC6KGE6YI6hBeKc%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 7,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/1c2b2df2d3464171aa4c2fa44f5a74b8~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=SQAlaXUPHp5xZhRUQpVctbtlJyc%3D&x-signature-webp=cix7RM9tPpxcXFvFMwZtIAsr9bM%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/10857807121f44a9987cd0e7463173bf~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=rDE3nO8IrfDLxpPi0NRI179eztU%3D&x-signature-webp=fAnDIIAPw%2BryUAm5CRkm2Ujdnk4%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/10857807121f44a9987cd0e7463173bf~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=tjANA16c8kYDR%2Fu0reN1z374G34%3D&x-signature-webp=yQQAqGtG2I%2FL6RygJFv%2BJ%2FFaDoU%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 8,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/10857807121f44a9987cd0e7463173bf~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=rDE3nO8IrfDLxpPi0NRI179eztU%3D&x-signature-webp=fAnDIIAPw%2BryUAm5CRkm2Ujdnk4%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/eff232b199e14719b8a85d6d2bb6b413~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=H4Dbt7HtpSBL%2FHfyKrTZge%2Bdnp8%3D&x-signature-webp=7ROlInl%2BXOtLXHaa5FlLOWpYHdo%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/eff232b199e14719b8a85d6d2bb6b413~tplv-aphluv4xwc-resize-jpeg:200:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=4KBbRDXWHEMS8e3lMHG4tBTP8Yg%3D&x-signature-webp=11%2FCI7Iqfm5yX6VsnNofbdvSvdw%3D",
+                  "description": "",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 9,
+                  "variantOptionID": "0",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/eff232b199e14719b8a85d6d2bb6b413~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=H4Dbt7HtpSBL%2FHfyKrTZge%2Bdnp8%3D&x-signature-webp=7ROlInl%2BXOtLXHaa5FlLOWpYHdo%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/bd3f26f16a0a4ae282817769deaa2fa2~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=YrglXuiXpCobYqLzBvDMiOEWRpk%3D&x-signature-webp=9ry2jXDNDlKH8GUTr1tJTH0yiPY%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/bd3f26f16a0a4ae282817769deaa2fa2~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=YrglXuiXpCobYqLzBvDMiOEWRpk%3D&x-signature-webp=9ry2jXDNDlKH8GUTr1tJTH0yiPY%3D",
+                  "description": "Hitam",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 10,
+                  "variantOptionID": "2",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/bd3f26f16a0a4ae282817769deaa2fa2~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=YrglXuiXpCobYqLzBvDMiOEWRpk%3D&x-signature-webp=9ry2jXDNDlKH8GUTr1tJTH0yiPY%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/f9336a22dedf458a997ddec1843ffca7~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=xrlIusI87%2F%2BzrLebxBSmLqNmSa4%3D&x-signature-webp=e5pnsDScnARaFbIqyOfn7tyy94w%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/f9336a22dedf458a997ddec1843ffca7~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=xrlIusI87%2F%2BzrLebxBSmLqNmSa4%3D&x-signature-webp=e5pnsDScnARaFbIqyOfn7tyy94w%3D",
+                  "description": "Puith",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 11,
+                  "variantOptionID": "3",
+                  "URLMaxRes": "https://p19-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/f9336a22dedf458a997ddec1843ffca7~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=BrgIhu3rlZN34pnpfOvQruhty6U%3D&x-signature-webp=Vw78vNEpABVgtweg5%2BJN7LZcpxA%3D"
+                },
+                {
+                  "type": "image",
+                  "URLOriginal": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/92792bb4779a45c7bb5cd598d4555224~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=NSpuE5yQGMqLErRTrGXAxpY3hek%3D&x-signature-webp=wsmfOE%2FJ44U%2FffMFo%2FC9f7SGCfk%3D",
+                  "URLThumbnail": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/92792bb4779a45c7bb5cd598d4555224~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=NSpuE5yQGMqLErRTrGXAxpY3hek%3D&x-signature-webp=wsmfOE%2FJ44U%2FffMFo%2FC9f7SGCfk%3D",
+                  "description": "Hitam.",
+                  "videoURLIOS": "",
+                  "isAutoplay": false,
+                  "index": 12,
+                  "variantOptionID": "4",
+                  "URLMaxRes": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/92792bb4779a45c7bb5cd598d4555224~tplv-aphluv4xwc-resize-jpeg:700:0.jpeg?lk3s=0ccea506&x-expires=1785959008&x-signature=NSpuE5yQGMqLErRTrGXAxpY3hek%3D&x-signature-webp=wsmfOE%2FJ44U%2FffMFo%2FC9f7SGCfk%3D"
+                }
+              ],
+              "recommendation": {
+                "lightIcon": "",
+                "darkIcon": "",
+                "iconText": "",
+                "bottomsheetTitle": "",
+                "recommendation": ""
+              },
+              "videos": [],
+              "containerType": "square",
+              "liveIndicator": {
+                "isLive": false,
+                "channelID": "",
+                "mediaURL": "",
+                "applink": ""
+              },
+              "showJumpToVideo": false
+            }
+          ]
+        },
+        {
+          "name": "ticker_info",
+          "type": "ticker_info",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "button_ar",
+          "type": "button_ar",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "mini_variant_options",
+          "type": "variant",
+          "kind": "default",
+          "data": [
+            {
+              "parentID": "103483271372",
+              "defaultChild": "103483271373",
+              "sizeChart": "",
+              "maxFinalPrice": 175000,
+              "componentType": "thumbnail",
+              "landingSubText": "",
+              "socialProof": {
+                "bgColor": "#FFF5E3",
+                "contents": [
+                  {
+                    "name": "product_demand_top_rated",
+                    "content": "<span style=\"color:#FF7F17\"><b>Pilihan tepat!</b> 100% pembeli merasa puas!</span>",
+                    "iconURL": "https://images.tokopedia.net/img/pdp/icons/social_proof_review_section_thumb.png"
+                  }
+                ]
+              },
+              "variants": [
+                {
+                  "productVariantID": "1",
+                  "variantID": "1",
+                  "name": "warna",
+                  "identifier": "colour",
+                  "option": [
+                    {
+                      "productVariantOptionID": "2",
+                      "variantUnitValueID": "0",
+                      "value": "Hitam",
+                      "hex": "",
+                      "picture": {
+                        "url": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/bd3f26f16a0a4ae282817769deaa2fa2~.jpeg",
+                        "url100": "https://images.tokopedia.net/img/cache/150/aphluv/1997/1/1/bd3f26f16a0a4ae282817769deaa2fa2~.jpeg"
+                      }
+                    },
+                    {
+                      "productVariantOptionID": "3",
+                      "variantUnitValueID": "0",
+                      "value": "Puith",
+                      "hex": "",
+                      "picture": {
+                        "url": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/f9336a22dedf458a997ddec1843ffca7~.jpeg",
+                        "url100": "https://images.tokopedia.net/img/cache/150/aphluv/1997/1/1/f9336a22dedf458a997ddec1843ffca7~.jpeg"
+                      }
+                    },
+                    {
+                      "productVariantOptionID": "4",
+                      "variantUnitValueID": "0",
+                      "value": "Hitam.",
+                      "hex": "",
+                      "picture": {
+                        "url": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/92792bb4779a45c7bb5cd598d4555224~.jpeg",
+                        "url100": "https://images.tokopedia.net/img/cache/150/aphluv/1997/1/1/92792bb4779a45c7bb5cd598d4555224~.jpeg"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "productID": "103483271373",
+                  "price": 228000,
+                  "priceFmt": "Rp228.000",
+                  "slashPriceFmt": "Rp379.000",
+                  "discPercentage": "54%",
+                  "sku": "LJ102-SBH",
+                  "optionID": [
+                    2
+                  ],
+                  "productName": "Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula & Profesional - Hitam",
+                  "productURL": "https://www.tokopedia.com/orbitbyte-digital-store/logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571557543",
+                  "picture": {
+                    "url": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/bd3f26f16a0a4ae282817769deaa2fa2~.jpeg",
+                    "url100": "https://images.tokopedia.net/img/cache/150/aphluv/1997/1/1/bd3f26f16a0a4ae282817769deaa2fa2~.jpeg"
+                  },
+                  "stock": {
+                    "stock": "890",
+                    "isBuyable": true,
+                    "stockWording": "",
+                    "stockWordingHTML": "",
+                    "minimumOrder": "1",
+                    "maximumOrder": "890",
+                    "stockFmt": "Stok: 890",
+                    "stockCopy": "<span style=color:#080808><b>Jumlah: </b></span><span style=color:#656C7B>Stok tersedia</span>"
+                  },
+                  "isCOD": true,
+                  "isWishlist": false,
+                  "campaignInfo": {
+                    "campaignID": "-10000",
+                    "campaignType": "0",
+                    "campaignTypeName": "Diskon Terbatas",
+                    "discountPercentage": 54,
+                    "originalPrice": 379000,
+                    "discountPrice": 175000,
+                    "stock": 890,
+                    "stockSoldPercentage": 14,
+                    "endDateUnix": "1795951260",
+                    "appLinks": "",
+                    "isActive": true,
+                    "hideGimmick": false,
+                    "isUsingOvo": false,
+                    "minOrder": 1,
+                    "campaignIdentifier": 2,
+                    "background": "#D74049,#F56958",
+                    "paymentInfoWording": "",
+                    "campaignLogo": "",
+                    "showStockBar": false
+                  },
+                  "thematicCampaign": {
+                    "campaignName": "",
+                    "icon": "",
+                    "background": "",
+                    "productID": "",
+                    "campaignLogo": "",
+                    "superGraphicURL": ""
+                  },
+                  "subText": "Varian Hitam tersedia",
+                  "promo": {
+                    "value": 0,
+                    "iconURL": "https://p16-images-comn-sg.tokopedia-static.net/tos-alisg-i-zr7vqa5nfb-sg/img/ic_promo-discount.png~tplv-zr7vqa5nfb-image.image",
+                    "productID": "103483271373",
+                    "promoPriceFmt": "Rp175.000",
+                    "subtitle": "Diskon 53rb",
+                    "applink": "",
+                    "color": "#F94D63",
+                    "background": "#FFF5F6,#FFFFFF",
+                    "promoType": 0,
+                    "superGraphicURL": "https://images.tokopedia.net/img/pdp/icons/promo/dark_mode_supergraphic_red.png",
+                    "priceAdditionalFmt": "Tanpa Promo: Rp228.000",
+                    "separatorColor": "#FED3D9",
+                    "bottomsheetParam": "{\"request_list\":[{\"product_id\":103483271373,\"is_low_benefit\":false,\"additional_data\":[{\"field\":\"nett_price\",\"value\":\"175000\"},{\"field\":\"price\",\"value\":\"379000\"},{\"field\":\"benefit_cashback\",\"value\":\"0\"},{\"field\":\"benefit_cashback_currency\",\"value\":\"\"},{\"field\":\"benefit_discount\",\"value\":\"204000\"},{\"field\":\"background_color\",\"value\":\"#FFF5F6,#FFFFFF\"},{\"field\":\"background_image\",\"value\":\"https://images.tokopedia.net/img/pdp/icons/promo/dark_mode_supergraphic_red.png\"},{\"field\":\"promo_label\",\"value\":\"net_price\"}]}]}",
+                    "promoCodes": [
+                      {
+                        "promoID": "0",
+                        "promoCode": "0",
+                        "promoCodeType": ""
+                      },
+                      {
+                        "promoID": "0",
+                        "promoCode": "0",
+                        "promoCodeType": ""
+                      }
+                    ]
+                  },
+                  "currencyFmt": "Rp",
+                  "valuePriceFmt": "175.000",
+                  "componentPriceType": 3,
+                  "isTopSold": false,
+                  "labelIcons": [],
+                  "ttsPID": "1736063620286678695",
+                  "ttsSKUID": "1736064032571557543"
+                },
+                {
+                  "productID": "103483271374",
+                  "price": 228000,
+                  "priceFmt": "Rp228.000",
+                  "slashPriceFmt": "Rp379.000",
+                  "discPercentage": "54%",
+                  "sku": "LJ102-SBB",
+                  "optionID": [
+                    3
+                  ],
+                  "productName": "Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula & Profesional - Puith",
+                  "productURL": "https://www.tokopedia.com/orbitbyte-digital-store/logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571623079",
+                  "picture": {
+                    "url": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/f9336a22dedf458a997ddec1843ffca7~.jpeg",
+                    "url100": "https://images.tokopedia.net/img/cache/150/aphluv/1997/1/1/f9336a22dedf458a997ddec1843ffca7~.jpeg"
+                  },
+                  "stock": {
+                    "stock": "895",
+                    "isBuyable": true,
+                    "stockWording": "",
+                    "stockWordingHTML": "",
+                    "minimumOrder": "1",
+                    "maximumOrder": "895",
+                    "stockFmt": "Stok: 895",
+                    "stockCopy": "<span style=color:#080808><b>Jumlah: </b></span><span style=color:#656C7B>Stok tersedia</span>"
+                  },
+                  "isCOD": true,
+                  "isWishlist": false,
+                  "campaignInfo": {
+                    "campaignID": "-10000",
+                    "campaignType": "0",
+                    "campaignTypeName": "Diskon Terbatas",
+                    "discountPercentage": 54,
+                    "originalPrice": 379000,
+                    "discountPrice": 175000,
+                    "stock": 895,
+                    "stockSoldPercentage": 14,
+                    "endDateUnix": "1795951260",
+                    "appLinks": "",
+                    "isActive": true,
+                    "hideGimmick": false,
+                    "isUsingOvo": false,
+                    "minOrder": 1,
+                    "campaignIdentifier": 2,
+                    "background": "#D74049,#F56958",
+                    "paymentInfoWording": "",
+                    "campaignLogo": "",
+                    "showStockBar": false
+                  },
+                  "thematicCampaign": {
+                    "campaignName": "",
+                    "icon": "",
+                    "background": "",
+                    "productID": "",
+                    "campaignLogo": "",
+                    "superGraphicURL": ""
+                  },
+                  "subText": "Varian Puith tersedia",
+                  "promo": {
+                    "value": 0,
+                    "iconURL": "https://p16-images-comn-sg.tokopedia-static.net/tos-alisg-i-zr7vqa5nfb-sg/img/ic_promo-discount.png~tplv-zr7vqa5nfb-image.image",
+                    "productID": "103483271374",
+                    "promoPriceFmt": "Rp175.000",
+                    "subtitle": "Diskon 53rb",
+                    "applink": "",
+                    "color": "#F94D63",
+                    "background": "#FFF5F6,#FFFFFF",
+                    "promoType": 0,
+                    "superGraphicURL": "https://images.tokopedia.net/img/pdp/icons/promo/dark_mode_supergraphic_red.png",
+                    "priceAdditionalFmt": "Tanpa Promo: Rp228.000",
+                    "separatorColor": "#FED3D9",
+                    "bottomsheetParam": "{\"request_list\":[{\"product_id\":103483271374,\"is_low_benefit\":false,\"additional_data\":[{\"field\":\"nett_price\",\"value\":\"175000\"},{\"field\":\"price\",\"value\":\"379000\"},{\"field\":\"benefit_cashback\",\"value\":\"0\"},{\"field\":\"benefit_cashback_currency\",\"value\":\"\"},{\"field\":\"benefit_discount\",\"value\":\"204000\"},{\"field\":\"background_color\",\"value\":\"#FFF5F6,#FFFFFF\"},{\"field\":\"background_image\",\"value\":\"https://images.tokopedia.net/img/pdp/icons/promo/dark_mode_supergraphic_red.png\"},{\"field\":\"promo_label\",\"value\":\"net_price\"}]}]}",
+                    "promoCodes": [
+                      {
+                        "promoID": "0",
+                        "promoCode": "0",
+                        "promoCodeType": ""
+                      },
+                      {
+                        "promoID": "0",
+                        "promoCode": "0",
+                        "promoCodeType": ""
+                      }
+                    ]
+                  },
+                  "currencyFmt": "Rp",
+                  "valuePriceFmt": "175.000",
+                  "componentPriceType": 3,
+                  "isTopSold": false,
+                  "labelIcons": [],
+                  "ttsPID": "1736063620286678695",
+                  "ttsSKUID": "1736064032571623079"
+                },
+                {
+                  "productID": "103483271375",
+                  "price": 5000,
+                  "priceFmt": "Rp5.000",
+                  "slashPriceFmt": "Rp20.000",
+                  "discPercentage": "75%",
+                  "sku": "",
+                  "optionID": [
+                    4
+                  ],
+                  "productName": "Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula & Profesional - Hitam.",
+                  "productURL": "https://www.tokopedia.com/orbitbyte-digital-store/logitech-g102-mouse-gaming-wired-desain-ergonomis-responsif-tinggi-cocok-untuk-gamer-pemula-profesional-1736063620286678695-1736064032571688615",
+                  "picture": {
+                    "url": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/92792bb4779a45c7bb5cd598d4555224~.jpeg",
+                    "url100": "https://images.tokopedia.net/img/cache/150/aphluv/1997/1/1/92792bb4779a45c7bb5cd598d4555224~.jpeg"
+                  },
+                  "stock": {
+                    "stock": "0",
+                    "isBuyable": true,
+                    "stockWording": "",
+                    "stockWordingHTML": "",
+                    "minimumOrder": "1",
+                    "maximumOrder": "0",
+                    "stockFmt": "Stok: 0",
+                    "stockCopy": ""
+                  },
+                  "isCOD": true,
+                  "isWishlist": false,
+                  "campaignInfo": {
+                    "campaignID": "-10000",
+                    "campaignType": "0",
+                    "campaignTypeName": "Diskon Terbatas",
+                    "discountPercentage": 75,
+                    "originalPrice": 20000,
+                    "discountPrice": 5000,
+                    "stock": 0,
+                    "stockSoldPercentage": 100,
+                    "endDateUnix": "1795951260",
+                    "appLinks": "",
+                    "isActive": true,
+                    "hideGimmick": false,
+                    "isUsingOvo": false,
+                    "minOrder": 1,
+                    "campaignIdentifier": 2,
+                    "background": "#D74049,#F56958",
+                    "paymentInfoWording": "",
+                    "campaignLogo": "",
+                    "showStockBar": false
+                  },
+                  "thematicCampaign": {
+                    "campaignName": "",
+                    "icon": "",
+                    "background": "",
+                    "productID": "",
+                    "campaignLogo": "",
+                    "superGraphicURL": ""
+                  },
+                  "subText": "Varian ini habis",
+                  "promo": {
+                    "value": 0,
+                    "iconURL": "",
+                    "productID": "0",
+                    "promoPriceFmt": "",
+                    "subtitle": "",
+                    "applink": "",
+                    "color": "",
+                    "background": "",
+                    "promoType": 0,
+                    "superGraphicURL": "",
+                    "priceAdditionalFmt": "",
+                    "separatorColor": "",
+                    "bottomsheetParam": "{\"request_list\":[{\"product_id\":103483271375,\"is_low_benefit\":true,\"additional_data\":[{\"field\":\"nett_price\",\"value\":\"5000\"},{\"field\":\"price\",\"value\":\"20000\"},{\"field\":\"benefit_cashback\",\"value\":\"0\"},{\"field\":\"benefit_cashback_currency\",\"value\":\"\"},{\"field\":\"benefit_discount\",\"value\":\"15000\"},{\"field\":\"background_color\",\"value\":\"\"},{\"field\":\"background_image\",\"value\":\"\"},{\"field\":\"promo_label\",\"value\":\"slash_price\"}]}]}",
+                    "promoCodes": []
+                  },
+                  "currencyFmt": "Rp",
+                  "valuePriceFmt": "5.000",
+                  "componentPriceType": 3,
+                  "isTopSold": false,
+                  "labelIcons": [],
+                  "ttsPID": "1736063620286678695",
+                  "ttsSKUID": "1736064032571688615"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ongoing_campaign",
+          "type": "ongoing_campaign",
+          "kind": "default",
+          "data": [
+            {
+              "campaign": {
+                "campaignID": "-10000",
+                "campaignType": "0",
+                "campaignTypeName": "Diskon Terbatas",
+                "percentageAmount": 54,
+                "originalPrice": 379000,
+                "discountedPrice": 175000,
+                "originalStock": 890,
+                "stock": 890,
+                "stockSoldPercentage": 14,
+                "endDateUnix": "1795951260",
+                "isActive": true,
+                "hideGimmick": false,
+                "isUsingOvo": false,
+                "campaignIdentifier": 2,
+                "background": "#D74049,#F56958",
+                "paymentInfoWording": "",
+                "productID": "103483271373",
+                "campaignLogo": "",
+                "showStockBar": false
+              },
+              "thematicCampaign": {
+                "productID": "0",
+                "campaignName": "",
+                "background": "",
+                "icon": "",
+                "campaignLogo": "",
+                "superGraphicURL": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "upcoming_deals",
+          "type": "teaser",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "promo_price",
+          "type": "promo_price",
+          "kind": "default",
+          "data": [
+            {
+              "price": {
+                "value": 175000,
+                "currency": "UNKNOWN",
+                "lastUpdateUnix": "0",
+                "priceFmt": "Rp175.000",
+                "slashPriceFmt": "Rp379.000",
+                "discPercentage": "54%",
+                "currencyFmt": "Rp",
+                "valueFmt": "175.000"
+              },
+              "promo": {
+                "value": 0,
+                "iconURL": "https://p16-images-comn-sg.tokopedia-static.net/tos-alisg-i-zr7vqa5nfb-sg/img/ic_promo-discount.png~tplv-zr7vqa5nfb-image.image",
+                "productID": "103483271373",
+                "promoPriceFmt": "Rp175.000",
+                "subtitle": "Diskon 53rb",
+                "applink": "",
+                "color": "#F94D63",
+                "background": "#FFF5F6,#FFFFFF",
+                "promoType": 0,
+                "superGraphicURL": "https://images.tokopedia.net/img/pdp/icons/promo/dark_mode_supergraphic_red.png",
+                "priceAdditionalFmt": "Tanpa Promo: Rp228.000",
+                "separatorColor": "#FED3D9",
+                "bottomsheetParam": "{\"request_list\":[{\"product_id\":103483271373,\"is_low_benefit\":false,\"additional_data\":[{\"field\":\"nett_price\",\"value\":\"175000\"},{\"field\":\"price\",\"value\":\"379000\"},{\"field\":\"benefit_cashback\",\"value\":\"0\"},{\"field\":\"benefit_cashback_currency\",\"value\":\"\"},{\"field\":\"benefit_discount\",\"value\":\"204000\"},{\"field\":\"background_color\",\"value\":\"#FFF5F6,#FFFFFF\"},{\"field\":\"background_image\",\"value\":\"https://images.tokopedia.net/img/pdp/icons/promo/dark_mode_supergraphic_red.png\"},{\"field\":\"promo_label\",\"value\":\"net_price\"}]}]}",
+                "promoCodes": [
+                  {
+                    "promoID": "0",
+                    "promoCode": "0",
+                    "promoCodeType": ""
+                  },
+                  {
+                    "promoID": "0",
+                    "promoCode": "0",
+                    "promoCodeType": ""
+                  }
+                ]
+              },
+              "componentPriceType": 3
+            }
+          ]
+        },
+        {
+          "name": "affordability_group_label",
+          "type": "affordability_group_label",
+          "kind": "default",
+          "data": [
+            {
+              "affordabilityData": [
+                {
+                  "productID": "103483271374",
+                  "productVouchers": [
+                    {
+                      "identifier": "platform_identifier_7663429651125274386",
+                      "type": "platform",
+                      "text": "<span style=\"color:#E02954\">Diskon Pengguna Baru 99% (40rb)</span>",
+                      "backgroundColor": "#FEECEF"
+                    },
+                    {
+                      "identifier": "seller_identifier_7655167304246101761",
+                      "type": "seller",
+                      "text": "<span style=\"color:#E02954\">Diskon Toko 13rb</span>",
+                      "backgroundColor": "#FEECEF"
+                    },
+                    {
+                      "identifier": "upselling",
+                      "type": "discount",
+                      "text": "<span style=\"color:#E02954\">Belanja Rp1jt, Diskon 50rb</span>",
+                      "backgroundColor": "#FEECEF"
+                    }
+                  ],
+                  "showChevron": true,
+                  "chevronColor": "#212121",
+                  "appliedVoucherTypeIDs": []
+                },
+                {
+                  "productID": "103483271375",
+                  "productVouchers": [
+                    {
+                      "identifier": "upselling",
+                      "type": "discount",
+                      "text": "<span style=\"color:#E02954\">Belanja Rp189rb, Diskon 13rb</span>",
+                      "backgroundColor": "#FEECEF"
+                    }
+                  ],
+                  "showChevron": true,
+                  "chevronColor": "#212121",
+                  "appliedVoucherTypeIDs": []
+                },
+                {
+                  "productID": "103483271373",
+                  "productVouchers": [
+                    {
+                      "identifier": "platform_identifier_7663429651125274386",
+                      "type": "platform",
+                      "text": "<span style=\"color:#E02954\">Diskon Pengguna Baru 99% (40rb)</span>",
+                      "backgroundColor": "#FEECEF"
+                    },
+                    {
+                      "identifier": "seller_identifier_7655167304246101761",
+                      "type": "seller",
+                      "text": "<span style=\"color:#E02954\">Diskon Toko 13rb</span>",
+                      "backgroundColor": "#FEECEF"
+                    },
+                    {
+                      "identifier": "upselling",
+                      "type": "discount",
+                      "text": "<span style=\"color:#E02954\">Belanja Rp1jt, Diskon 50rb</span>",
+                      "backgroundColor": "#FEECEF"
+                    }
+                  ],
+                  "showChevron": true,
+                  "chevronColor": "#212121",
+                  "appliedVoucherTypeIDs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "oneliner_bonus_widget_var",
+          "type": "dynamic_oneliner_var",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_bonus_widget_var",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 0,
+                "b": 0
+              },
+              "imageSize": {
+                "w": 20,
+                "h": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "paylater_cicilan_v2",
+          "type": "cicil_one_liner",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "product_content",
+          "type": "product_content",
+          "kind": "default",
+          "data": [
+            {
+              "name": "Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula & Profesional - Hitam",
+              "price": {
+                "value": 175000,
+                "currency": "UNKNOWN",
+                "lastUpdateUnix": "0",
+                "priceFmt": "Rp175.000",
+                "slashPriceFmt": "Rp379.000",
+                "discPercentage": "54%",
+                "currencyFmt": "Rp",
+                "valueFmt": "175.000"
+              },
+              "campaign": {
+                "campaignID": "-10000",
+                "campaignType": "0",
+                "campaignTypeName": "Diskon Terbatas",
+                "percentageAmount": 54,
+                "originalPrice": 379000,
+                "discountedPrice": 175000,
+                "originalStock": 890,
+                "stock": 890,
+                "stockSoldPercentage": 14,
+                "endDateUnix": "1795951260",
+                "isActive": true,
+                "hideGimmick": false,
+                "isUsingOvo": false,
+                "campaignIdentifier": 2,
+                "background": "#D74049,#F56958",
+                "paymentInfoWording": "",
+                "productID": "",
+                "campaignLogo": "",
+                "showStockBar": false
+              },
+              "thematicCampaign": {
+                "productID": "",
+                "campaignName": "",
+                "background": "",
+                "icon": "",
+                "campaignLogo": "",
+                "superGraphicURL": ""
+              },
+              "stock": {
+                "useStock": false,
+                "value": "890",
+                "stockWording": ""
+              },
+              "variant": {
+                "isVariant": true
+              },
+              "wholesale": [],
+              "isFreeOngkir": {
+                "isActive": false,
+                "imageURL": ""
+              },
+              "preorder": {
+                "duration": 0,
+                "timeUnit": "DAY",
+                "isActive": false,
+                "preorderInDays": 0
+              },
+              "isCashback": {
+                "percentage": 0
+              },
+              "isTradeIn": false,
+              "isOS": false,
+              "isPowerMerchant": true,
+              "isWishlist": false,
+              "isCOD": true,
+              "parentName": "Logitech G102 Mouse Gaming Wired - Desain Ergonomis, Responsif Tinggi, Cocok untuk Gamer Pemula & Profesional",
+              "isShowPrice": false,
+              "labelIcons": []
+            }
+          ]
+        },
+        {
+          "name": "mvc",
+          "type": "mvc",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "selling_points",
+          "type": "social_proof_mini",
+          "kind": "default",
+          "data": [
+            {
+              "socialProofContent": []
+            }
+          ]
+        },
+        {
+          "name": "oneliner_authentic_widget",
+          "type": "dynamic_oneliner",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_authentic_widget",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 4,
+                "b": 4
+              },
+              "imageSize": {
+                "w": 0,
+                "h": 0
+              }
+            }
+          ]
+        },
+        {
+          "name": "social_proof_mini",
+          "type": "social_proof_mini",
+          "kind": "default",
+          "data": [
+            {
+              "socialProofContent": [
+                {
+                  "socialProofType": "chip_v2",
+                  "socialProofID": "rating",
+                  "title": "5.0",
+                  "subtitle": "<u>(10)</u>",
+                  "icon": "https://images.tokopedia.net/img/pdp/info/icon/star_filled.png",
+                  "applink": {
+                    "appLink": "tokopedia://product/{productID}/review?shopID=7494288768308053671&enterFrom=social_proof&parentID=103483271372"
+                  },
+                  "bgColor": "",
+                  "chevronColor": "",
+                  "showChevron": false,
+                  "hasSeparator": true
+                },
+                {
+                  "socialProofType": "chip_v2",
+                  "socialProofID": "media",
+                  "title": "18",
+                  "subtitle": "<u>Foto ulasan</u>",
+                  "icon": "",
+                  "applink": {
+                    "appLink": "tokopedia://product/103483271373/review/gallery?shopID=7494288768308053671&enterFrom=social_proof&parentID=103483271372"
+                  },
+                  "bgColor": "",
+                  "chevronColor": "",
+                  "showChevron": false,
+                  "hasSeparator": true
+                },
+                {
+                  "socialProofType": "chip_v2",
+                  "socialProofID": "product_sold",
+                  "title": "150",
+                  "subtitle": "Terjual",
+                  "icon": "",
+                  "applink": {
+                    "appLink": ""
+                  },
+                  "bgColor": "",
+                  "chevronColor": "",
+                  "showChevron": false,
+                  "hasSeparator": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "oneliner_price_trend_var",
+          "type": "dynamic_oneliner_var",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_price_trend_var",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 0,
+                "b": 8
+              },
+              "imageSize": {
+                "w": 20,
+                "h": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "oneliner_installation_group",
+          "type": "dynamic_oneliner",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_installation_group",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 8,
+                "b": 8
+              },
+              "imageSize": {
+                "w": 20,
+                "h": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "oneliner_protection_addons_group",
+          "type": "dynamic_oneliner",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_protection_addons_group",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 8,
+                "b": 8
+              },
+              "imageSize": {
+                "w": 20,
+                "h": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "shipment_v5",
+          "type": "shipment_v5",
+          "kind": "default",
+          "data": [
+            {
+              "data": [
+                {
+                  "productID": "103483271373",
+                  "warehouse_info": {
+                    "warehouse_id": "21071229",
+                    "is_fulfillment": false,
+                    "district_id": "1629",
+                    "postal_code": "15125",
+                    "geolocation": "iFhpFVg0xuQrlWPAkj1r/jVWu8+havVovds89NrmQwL+JTDc0ocjtkBS4+oIkalS",
+                    "city_name": "Kota Tangerang",
+                    "ttsWarehouseID": "7583054206715152149"
+                  },
+                  "useBOVoucher": false,
+                  "isCOD": true,
+                  "metadata": "{\"cd\":[{\"name\":\"Komputer \\u0026 Laptop\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297},{\"name\":\"Aksesoris PC Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming\",\"id\":3848},{\"name\":\"Mouse Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming\",\"id\":4011}],\"tcd\":[{\"name\":\"Komputer \\u0026 Peralatan Kantor\",\"id\":601755},{\"name\":\"Periferal \\u0026 Aksesoris\",\"id\":826760},{\"name\":\"Keyboard \\u0026 Mouse\",\"id\":601760}],\"td\":{},\"exp\":{},\"pri\":103483271372,\"tsi\":7494288768308053671,\"pse\":1,\"mo\":1,\"swh\":true}"
+                },
+                {
+                  "productID": "103483271374",
+                  "warehouse_info": {
+                    "warehouse_id": "21071229",
+                    "is_fulfillment": false,
+                    "district_id": "1629",
+                    "postal_code": "15125",
+                    "geolocation": "HtqKeLD9RuVBXANJlQvbJ7eml0NhRsgvbFbgHk/vVqZ2zglEqI+AXC0BNjr/TJxn",
+                    "city_name": "Kota Tangerang",
+                    "ttsWarehouseID": "7583054206715152149"
+                  },
+                  "useBOVoucher": false,
+                  "isCOD": true,
+                  "metadata": "{\"cd\":[{\"name\":\"Komputer \\u0026 Laptop\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297},{\"name\":\"Aksesoris PC Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming\",\"id\":3848},{\"name\":\"Mouse Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming\",\"id\":4011}],\"tcd\":[{\"name\":\"Komputer \\u0026 Peralatan Kantor\",\"id\":601755},{\"name\":\"Periferal \\u0026 Aksesoris\",\"id\":826760},{\"name\":\"Keyboard \\u0026 Mouse\",\"id\":601760}],\"td\":{},\"exp\":{},\"pri\":103483271372,\"tsi\":7494288768308053671,\"pse\":1,\"mo\":1,\"swh\":true}"
+                },
+                {
+                  "productID": "103483271375",
+                  "warehouse_info": {
+                    "warehouse_id": "21071229",
+                    "is_fulfillment": false,
+                    "district_id": "1629",
+                    "postal_code": "15125",
+                    "geolocation": "N+853FXTNTTTpjrvnnl1Nwf9eJn2OKvZBdPX5rHGL6BVQ3I0hKYw9GPOeaE5H7Gu",
+                    "city_name": "Kota Tangerang",
+                    "ttsWarehouseID": "7583054206715152149"
+                  },
+                  "useBOVoucher": false,
+                  "isCOD": true,
+                  "metadata": "{\"cd\":[{\"name\":\"Komputer \\u0026 Laptop\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297},{\"name\":\"Aksesoris PC Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming\",\"id\":3848},{\"name\":\"Mouse Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming\",\"id\":4011}],\"tcd\":[{\"name\":\"Komputer \\u0026 Peralatan Kantor\",\"id\":601755},{\"name\":\"Periferal \\u0026 Aksesoris\",\"id\":826760},{\"name\":\"Keyboard \\u0026 Mouse\",\"id\":601760}],\"td\":{},\"exp\":{},\"pri\":103483271372,\"tsi\":7494288768308053671,\"pse\":1,\"mo\":1,\"swh\":true}"
+                },
+                {
+                  "productID": "103483271372",
+                  "warehouse_info": {
+                    "warehouse_id": "21071229",
+                    "is_fulfillment": false,
+                    "district_id": "1629",
+                    "postal_code": "15125",
+                    "geolocation": "280ix819jqLZR5YasoY+RLKkCXpHuo78ztU/lsZKCZGPoHIiHRdtk68nLXIzMpIR",
+                    "city_name": "Kota Tangerang",
+                    "ttsWarehouseID": "7583054206715152149"
+                  },
+                  "useBOVoucher": false,
+                  "isCOD": false,
+                  "metadata": "{\"cd\":[{\"name\":\"Komputer \\u0026 Laptop\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297},{\"name\":\"Aksesoris PC Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming\",\"id\":3848},{\"name\":\"Mouse Gaming\",\"burl\":\"https://www.tokopedia.com/p/komputer-laptop/aksesoris-pc-gaming/mouse-gaming\",\"id\":4011}],\"tcd\":[{\"name\":\"Komputer \\u0026 Peralatan Kantor\",\"id\":601755},{\"name\":\"Periferal \\u0026 Aksesoris\",\"id\":826760},{\"name\":\"Keyboard \\u0026 Mouse\",\"id\":601760}],\"td\":{},\"exp\":{},\"pri\":103483271372,\"tsi\":7494288768308053671,\"pse\":1,\"mo\":1,\"swh\":true}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "oneliner_change_of_mind_shipment",
+          "type": "dynamic_oneliner",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_change_of_mind_shipment",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 0,
+                "b": 0
+              },
+              "imageSize": {
+                "w": 20,
+                "h": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "bmgm_sneak_peek",
+          "type": "bmgm",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "gwp_sneak_peek",
+          "type": "gwp",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "widget_referral_info",
+          "type": "widget_referral_info",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "review",
+          "type": "review",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "play_carousel",
+          "type": "content_widget",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "shop_credibility",
+          "type": "shop_credibility",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "shop_selling_points",
+          "type": "shop_selling_points",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "sdui_trustmarker",
+          "type": "sdui",
+          "kind": "divkit",
+          "data": [
+            {
+              "template": ""
+            }
+          ]
+        },
+        {
+          "name": "shop_review_extraction",
+          "type": "shop_review_extraction",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "review_list",
+          "type": "review_list",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "pdp_same_shop",
+          "type": "product_list",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "sdui_sizechart",
+          "type": "sdui",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "product_detail_media",
+          "type": "product_detail_media",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "product_detail",
+          "type": "product_detail",
+          "kind": "default",
+          "data": [
+            {
+              "title": "Detail produk",
+              "content": [
+                {
+                  "type": "default",
+                  "key": "kondisi",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Kondisi",
+                  "subtitle": "Baru",
+                  "applink": "",
+                  "showAtFront": false,
+                  "showAtBottomsheet": true,
+                  "infoLink": "",
+                  "icon": ""
+                },
+                {
+                  "type": "weblink",
+                  "key": "berat",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Berat Satuan",
+                  "subtitle": "60 - 146 g",
+                  "applink": "",
+                  "showAtFront": false,
+                  "showAtBottomsheet": true,
+                  "infoLink": "tokopedia://product-edu/5",
+                  "icon": "information"
+                },
+                {
+                  "type": "default",
+                  "key": "min_order",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Min. Beli",
+                  "subtitle": "1",
+                  "applink": "",
+                  "showAtFront": false,
+                  "showAtBottomsheet": true,
+                  "infoLink": "",
+                  "icon": ""
+                },
+                {
+                  "type": "",
+                  "key": "",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Tipe Garansi",
+                  "subtitle": "Tanpa Garansi",
+                  "applink": "",
+                  "showAtFront": true,
+                  "showAtBottomsheet": true,
+                  "infoLink": "",
+                  "icon": ""
+                },
+                {
+                  "type": "applink",
+                  "key": "kategori",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Kategori",
+                  "subtitle": "Mouse Gaming",
+                  "applink": "tokopedia://category/4011",
+                  "showAtFront": false,
+                  "showAtBottomsheet": true,
+                  "infoLink": "",
+                  "icon": ""
+                },
+                {
+                  "type": "applink",
+                  "key": "etalase",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Etalase",
+                  "subtitle": "Semua Etalase",
+                  "applink": "tokopedia://shop/7494288768308053671/etalase/0",
+                  "showAtFront": true,
+                  "showAtBottomsheet": true,
+                  "infoLink": "",
+                  "icon": ""
+                },
+                {
+                  "type": "default",
+                  "key": "deskripsi",
+                  "extParam": "",
+                  "action": "",
+                  "title": "Deskripsi",
+                  "subtitle": "G102 MOUSE GAMING LIGHT SYNC\n\n\n\n\n\n\nSIAP UNTUK BERMAIN\n\n\n\n\n\n\n\n\nLIGHTSYNC RGB COLOR WAVE\n\n\n\n\n\n\nPilihlah dari pengaturan berdasarkan game dan media, serta animasi yang ceria, atau programlah pengaturanmu sendiri dari sekitar 16,8 juta warna.\n\n\n\n\n\n\nKUSTOMISASI YANG MUDAH\n\n\n\n\n\n\nPilihlah sebuah warna, campurkan tiga warna, pilih preset animasi yang menyenangkan, atau buat sendiri animasimu. Pilihannya ada di tanganmu! Kamu bahkan bisa menyinkronkan mouse-mu dengan Logitech G LIGHTSYNC gear lainnya untuk kombinasi luar biasa.\n\n\n\n\n\n\nAUDIO VISUALIZER\n\n\n\n\n\n\nMainkan musik, film, game, bahkan setiap audio, maka G102 akan menghadirkan warna sesuai irama musik. Kustomisasikan level dan warna agar kamu bisa berpesta tanpa henti.\n\n\n\n\n\n\nSENSOR KELAS GAMING\n\n\n\n\n\n\nDapatkan penelusuran kursor yang akurat dan kinerja yang responsif berkat sensor kelas gaming. Dengan sensitivitas yang dapat disesuaikan antara 200-8.000 DPI, pilih level yang tepat sesuai dengan preferensi bermainmu. Gunakan software Logitech G HUB untuk memprogram hingga maksimal 5 preset.\n\n\n\n\n\n\nPENGENCANGAN TOMBOL YANG DIOPTIMALKAN\n\n\nTombol kiri dan kanan utama memiliki sistem pengencangan tombol pegas logam eksklusif Logitech G yang menghadirkan aktuasi tombol yang akurat dan pengalaman yang konsisten\u2014klik demi klik.\n\n\n\n\n\n\nPERSYARATAN\n\n\nWindows 7 atau versi terbaru\n\n\nmacOS 10.10 atau versi terbaru\n\n\nChrome OSTM\n\n\nPort USB\n\n\n\n\n\n\nSPESIFIKASI FISIK\n\n\nTinggi: 116,6 mm\n\n\nLebar: 62,15 mm\n\n\nTebal: 38,2 mm\n\n\nBerat: 85 g (hanya mouse)\n\n\nPanjang Kabel: 2,1 m\n\n\n\n\n\n\nSPESIFIKASI TEKNIS\n\n\nPencahayaan RGB LIGHTSYNC\n\n\n6 tombol yang dapat diprogram\n\n\nResolusi: 200 \u2013 8.000 DPI\n\n\n\n\n\n\nKETANGGAPAN\n\n\nFormat data USB: 16 bit/axis\n\n\nReport rate USB: 1.000 Hz (1 md)\n\n\nMikroprosesor: 32-bit ARM\n",
+                  "applink": "",
+                  "showAtFront": true,
+                  "showAtBottomsheet": true,
+                  "infoLink": "",
+                  "icon": ""
+                }
+              ],
+              "catalogBottomsheet": {
+                "actionTitle": "",
+                "bottomSheetTitle": "",
+                "param": ""
+              },
+              "bottomsheet": {
+                "actionTitle": "Baca Selengkapnya",
+                "bottomSheetTitle": "Detail produk",
+                "param": "{\"expid\":\"Default Layout\",\"aon\":{}}"
+              }
+            }
+          ]
+        },
+        {
+          "name": "oneliner_protection_addons",
+          "type": "dynamic_oneliner",
+          "kind": "default",
+          "data": [
+            {
+              "name": "oneliner_protection_addons",
+              "applink": "",
+              "separator": "",
+              "icon": "",
+              "status": "placeholder",
+              "chevronPos": "",
+              "text": "",
+              "bgColor": "",
+              "chevronColor": "",
+              "padding": {
+                "t": 8,
+                "b": 8
+              },
+              "imageSize": {
+                "w": 20,
+                "h": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "restricted_categories",
+          "type": "custom_info",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "info_obat_keras",
+          "type": "info",
+          "kind": "default",
+          "data": [
+            {
+              "title": "",
+              "applink": "",
+              "isApplink": false,
+              "icon": "",
+              "lightIcon": "",
+              "darkIcon": "",
+              "content": [],
+              "separator": "none"
+            }
+          ]
+        },
+        {
+          "name": "separator",
+          "type": "separator",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "global_bundling",
+          "type": "product_bundling",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "other_offers",
+          "type": "custom_info_title",
+          "kind": "default",
+          "data": [
+            {
+              "title": "Bikin belanja makin lengkap",
+              "status": "placeholder",
+              "componentName": "other_offers"
+            }
+          ]
+        },
+        {
+          "name": "harga_grosir",
+          "type": "custom_info",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "wholesale",
+          "type": "info",
+          "kind": "default",
+          "data": [
+            {
+              "title": "Harga Grosir",
+              "applink": "",
+              "isApplink": true,
+              "icon": "",
+              "lightIcon": "",
+              "darkIcon": "",
+              "content": [],
+              "separator": "none"
+            }
+          ]
+        },
+        {
+          "name": "palugada",
+          "type": "custom_info",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "order_prio",
+          "type": "info",
+          "kind": "default",
+          "data": [
+            {
+              "title": "Order Prioritas",
+              "applink": "",
+              "isApplink": false,
+              "icon": "https://images.tokopedia.net/pdp/info/icon/pdp-orderprio@3x.png",
+              "lightIcon": "https://images.tokopedia.net/pdp/info/icon/pdp-orderprio@3x.png",
+              "darkIcon": "https://images.tokopedia.net/pdp/info/icon/pdp-orderprio@3x.png",
+              "content": [],
+              "separator": "none"
+            }
+          ]
+        },
+        {
+          "name": "separator",
+          "type": "separator",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "separator",
+          "type": "separator",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "separator",
+          "type": "separator",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "separator",
+          "type": "separator",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "report",
+          "type": "report",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "tdn_topads",
+          "type": "banner_ads",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "pdp",
+          "type": "product_list_vertical",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "navigation",
+          "type": "navigation",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "_380",
+          "type": "post_atc_layout",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "_381",
+          "type": "post_atc_layout_variant",
+          "kind": "default",
+          "data": []
+        },
+        {
+          "name": "live_indicator",
+          "type": "live_indicator",
+          "kind": "default",
+          "data": []
+        }
+      ]
+    }
+  }
+}
